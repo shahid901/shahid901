@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahid901" alt="shahid901" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahid-khan-a8668a250/](https://www.linkedin.com/in/shahid-khan-a8668a250/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shahidkhan901/](https://www.linkedin.com/in/shahidkhan901/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Python, Advance Excel, Power BI**
 
 - 📫 How to reach me **shahidk17609@gmail.com**
 
